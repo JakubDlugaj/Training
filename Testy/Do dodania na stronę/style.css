@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ 
+body 
+{
+    font-size: 36px;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background: url(abstract-digital-grid-black-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(5px);
+    }
+    img{
+position:absolute;
+top: 250px;
+left: 950px;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+div {
+    background-color: lime;
+}
+ 
+p {
+    color: gold;
+}
+ 
+span {
+    background-color: tomato;
+}
+u {
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+ .Ja{
+position:absolute;
+top: 250px;
+left: 1300px;
+border-radius: 50%;
+width: 500px;
+padding: px;
+}
+
+b{
+    color:white;
+}
+   li{
+    color: white;
+   }
+a:link{
+    color:lime
+}
+a:visited {
+    color: green;
+}
+a:hover{
+    color: royalblue;
+
+}
+a:active{
+    background-color: gold;
+}
+.button{
+    padding: 30px 60px;
+    background-color: #1e1c20;
+    border:none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #1e1c20;
+    box-shadow: 0 0 2cqb gold;
+}
+d{
+    color: white;
+}
+u{
+    color: white;
+    text-decoration: underline;
+}
+.dod{
+    color: red;
+}
+.asg{
+
+    
+}
